@@ -1,5 +1,5 @@
 # UI- 1.0.3 -beta
-Esta es una interfaz de usuario centrada en los apartados de Log in y Register, junto a varios complementos de estas. esta interfaz posee una paleta de colores que puede ser utilizada por cualquier aplicacion junto arriba podra encontrar la interfaz capaz de ser utilizable y ejecutable en cualquier momento y dispositivo.
+Esta es una interfaz de usuario centrada en los apartados de Log in y Register, junto a varios complementos de estas. esta interfaz posee una paleta de colores que puede ser utilizada por cualquier aplicacion junto arriba podra encontrar la interfaz capaz de ser utilizable y ejecutable en cualquier momento y dispositivo. en caso de que el jar ejecutable presente problemas puede escoger la version exe de la UI.
 
 # Instrucciones
 descargar el jar en el cual se encuentra la interfaz y ejecutarlo.
